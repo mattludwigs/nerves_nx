@@ -1,0 +1,6 @@
+[submodule "ez"]
+	path = ez
+	url = git@github.com:ityonemo/ez.git
+[submodule "nx"]
+	path = nx
+	url = git@github.com:elixir-nx/nx.git
